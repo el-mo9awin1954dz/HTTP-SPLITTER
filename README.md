@@ -31,4 +31,5 @@
 ⠀⠀⠀⠀⠀⠀⠈⠀⠻⠿⠿⠆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣸⣿⡇⠉
 
 
-Node JS { HTTP splitting HTTP smuggling } Web Scanner Detect Response And Forward Results To Telegram Channel With Real Time Notification
+Node JS { HTTP splitting HTTP smuggling }
+web Scanner Detect Response And Forward Results To Telegram Channel With Real Time Notification
