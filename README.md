@@ -33,4 +33,9 @@
 
 Node JS { HTTP splitting HTTP smuggling }
 web Scanner Detect Response 
-And Forward Results To Telegram Channel With Real Time Notification
+
+And Forward Results 
+
+To Telegram Channel With Real Time Notification
+
+/START ./node HTTP-SPLITTER.js url.txt found.txt "Location:evil.com" evil.com HTTP-H-INJECTION TOKEN ID-CHANNEL HTTP-SP 
