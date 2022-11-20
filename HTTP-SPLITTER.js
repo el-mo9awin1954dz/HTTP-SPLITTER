@@ -127,7 +127,7 @@ async function check(i){
                          `,'\x1b[0m');
 
 		console.log("MSG FROM SCANNER :>>>>>>>>> %s",BUGALERT);
-		console.log('\n\n\x1b[31m',"FOUND BUG || PAYLOAD >>",'\x1b[0m',PAYLOAD);
+		console.log('\n\n\x1b[31m',"FOUND BUG || PAYLOAD >>",'\x1b[0m',INJECTION);
                 console.log("\n\nFOUND BUG >>> ",Self.data[i]+" |PAYLOAD| "+INJECTION)
                 const https = require('https')
                 const querystring = require('querystring')
