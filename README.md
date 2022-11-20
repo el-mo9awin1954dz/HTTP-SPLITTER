@@ -32,4 +32,5 @@
 
 
 Node JS { HTTP splitting HTTP smuggling }
-web Scanner Detect Response And Forward Results To Telegram Channel With Real Time Notification
+web Scanner Detect Response 
+And Forward Results To Telegram Channel With Real Time Notification
